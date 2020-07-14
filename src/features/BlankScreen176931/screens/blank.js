@@ -375,7 +375,38 @@ export class _Blank extends React.Component {
                       borderRadius: 0,
                       backgroundSize: "auto"
                     }}
-                  />
+                  >
+                    <Text
+                      style={{
+                        marginLeft: 0,
+                        marginRight: 0,
+                        marginTop: 5,
+                        marginBottom: 5,
+                        paddingLeft: 20,
+                        paddingRight: 5,
+                        paddingTop: 30,
+                        paddingBottom: 5,
+                        overflow: "visible",
+                        textAlign: "left",
+                        verticalAlign: "baseline",
+                        fontSize: 20,
+                        color: "#000000",
+                        backgroundColor: "#ffffff",
+                        fontStyle: "normal",
+                        fontWeight: "normal",
+                        borderColor: "#000000",
+                        borderStyle: "solid",
+                        borderWidth: 0,
+                        borderLeftWidth: 0,
+                        borderRightWidth: 0,
+                        borderTopWidth: 0,
+                        borderBottomWidth: 0,
+                        borderRadius: 0
+                      }}
+                    >
+                      Christina S.
+                    </Text>
+                  </View>
                   <View
                     style={{
                       width: "100%",
