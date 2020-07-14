@@ -1079,9 +1079,9 @@ export class _Blank extends React.Component {
                           "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Screen_Shot_2020-07-14_at_11.21.37_AM.png"
                       }}
                       style={{
-                        width: "95%",
+                        width: "90%",
                         height: 115,
-                        marginLeft: 2,
+                        marginLeft: 6,
                         marginRight: 0,
                         marginTop: 0,
                         marginBottom: 0,
