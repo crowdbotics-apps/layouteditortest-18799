@@ -1319,7 +1319,7 @@ export class _Blank extends React.Component {
                       <View
                         style={{
                           width: "100%",
-                          height: "50%",
+                          height: "40%",
                           marginLeft: 0,
                           marginRight: 0,
                           marginTop: 0,
@@ -1351,11 +1351,42 @@ export class _Blank extends React.Component {
                           borderRadius: 0,
                           backgroundSize: "auto"
                         }}
-                      />
+                      >
+                        <Text
+                          style={{
+                            marginLeft: 0,
+                            marginRight: 0,
+                            marginTop: -4,
+                            marginBottom: 5,
+                            paddingLeft: 5,
+                            paddingRight: 5,
+                            paddingTop: 5,
+                            paddingBottom: 5,
+                            overflow: "visible",
+                            textAlign: "left",
+                            verticalAlign: "baseline",
+                            fontSize: 7,
+                            color: "#fd6f80",
+                            backgroundColor: "#ffffff",
+                            fontStyle: "normal",
+                            fontWeight: "normal",
+                            borderColor: "#000000",
+                            borderStyle: "solid",
+                            borderWidth: 0,
+                            borderLeftWidth: 0,
+                            borderRightWidth: 0,
+                            borderTopWidth: 0,
+                            borderBottomWidth: 0,
+                            borderRadius: 0
+                          }}
+                        >
+                          Review Seller
+                        </Text>
+                      </View>
                       <View
                         style={{
                           width: "100%",
-                          height: "50%",
+                          height: "60%",
                           marginLeft: 0,
                           marginRight: 0,
                           marginTop: 0,
@@ -1387,7 +1418,39 @@ export class _Blank extends React.Component {
                           borderRadius: 0,
                           backgroundSize: "auto"
                         }}
-                      />
+                      >
+                        <Text
+                          style={{
+                            width: -1,
+                            marginLeft: 0,
+                            marginRight: 0,
+                            marginTop: -6,
+                            marginBottom: 5,
+                            paddingLeft: 5,
+                            paddingRight: 5,
+                            paddingTop: 5,
+                            paddingBottom: 5,
+                            overflow: "visible",
+                            textAlign: "left",
+                            verticalAlign: "baseline",
+                            fontSize: 9,
+                            color: "#000000",
+                            backgroundColor: "#ffffff",
+                            fontStyle: "normal",
+                            fontWeight: "normal",
+                            borderColor: "#000000",
+                            borderStyle: "solid",
+                            borderWidth: 0,
+                            borderLeftWidth: 0,
+                            borderRightWidth: 0,
+                            borderTopWidth: 0,
+                            borderBottomWidth: 0,
+                            borderRadius: 0
+                          }}
+                        >
+                          Leather Satchel with metal zipper and handle
+                        </Text>
+                      </View>
                     </View>
                   </View>
                   <View
